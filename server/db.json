@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "name": "Sriram",
+      "email": "sriram@gmail.com"
+    },
+    {
+      "id": "102",
+      "name": "Sibhi",
+      "email": "sibhi@gmail.com"
+    },
+    {
+      "id": "103",
+      "name": "Renu",
+      "email": "renuinfotech23@gmail.com"
+    },
+    {
+      "id": "100",
+      "name": "Deepan Chakkaravarthy",
+      "email": "Deepan.Ramalingam@stackroute.in"
+    }
+  ]
+}
